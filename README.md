@@ -14,3 +14,4 @@ Navigate to the provided `mock-api` folder and start the server:
 cd mock-api
 npm install
 npm start
+
