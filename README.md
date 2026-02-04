@@ -1,4 +1,4 @@
-﻿# Arkahub-Assignment
+# Arkahub-Assignment
 # EnergyGrid Data Aggregator (Browser Client)
 
 This project is a browser-based client application that fetches real-time telemetry data for 500 solar inverters from a mock **EnergyGrid API**, while strictly adhering to rate limits, batch constraints, and security requirements.
@@ -14,4 +14,6 @@ Navigate to the provided `mock-api` folder and start the server:
 cd mock-api
 npm install
 npm start
+
+
 
